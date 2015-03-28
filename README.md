@@ -8,3 +8,8 @@ exactly the same as my other repository but with a node server so make sure you 
 -- loads html partials with get requests
 
 -- in one of the html pages that gets loaded there is a button - angular detects this button and logs a message to the console
+
+my relevant repos
+https://github.com/PrimeLens/hacking-angular-router
+https://github.com/PrimeLens/angular-multipage-boilerplate
+https://github.com/PrimeLens/angular-multipage-boilerplate-with-node
